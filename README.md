@@ -1,13 +1,11 @@
-## Git və GithUb Qeydlərim
+## Git və GitHub Qeydlərim
 
 Git sistemində qeydiyyatdan keçmək
-
 ```
 git config --global user.name "İstifadəçi adı"
 git config --global user.email "Elektron poçt adresi"
 ```
 Qeydiyyatı check etmək
-
 ```
 git config --global user.name
 git config --global user.email
@@ -72,6 +70,8 @@ Faylı silmək
 ```
 git rm faylın_adı.faylın_tipi
 ```
+>Faylı normal şəkildə qovluqdan da silmək mümkündür
+
 Qovluğu silmək
 ```
 git rm -r qovluğun_adı/
