@@ -1,4 +1,4 @@
-## Git Qeydlərim
+## Git və GithUb Qeydlərim
 
 Git sistemində qeydiyyatdan keçmək
 
