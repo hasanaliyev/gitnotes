@@ -102,3 +102,6 @@ Faylı GitHubdakı repoya əlavə etmək
 git remote add reponun_adı reponun_linki
 git push -u reponun_adı branchın_adı
 ```
+___
+İstifadə olunan mənbə: 
+[Git Cheat Sheet by GitHub](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
