@@ -10,7 +10,7 @@ Qeydiyyatı check etmək
 git config --global user.name
 git config --global user.email
 ```
-Localda olduğumu adresi yoxlamaq
+Localda olduğumuz adresə baxmaq
 ```
 cd
 ```
@@ -26,11 +26,11 @@ Localda olduğumuz adresdən geri qayıtmaq
 ```
 cd ..
 ```
-Localdakı layihəmizin adresində Giti quraşdıracaq faylları yükləmək
+Localdakı layihəmizin adresində "Git" sistemini quraşdırmaq
 ```
 git init
 ```
-Qovluqdakı bütün faylları Git sistemindəki Keçid Ərazisinə (Staging Area) əlavə etmək
+Qovluqdakı bütün faylları "Git" sistemindəki Keçid Ərazisinə (Staging Area) əlavə etmək
 ```
 git add .
 ```
